@@ -42,23 +42,16 @@
 
 ---
 
-### 📚 Образование
-- **Санкт-Петербургский Политехнический Университет Петра Великого (СПбПУ)**  
-- Направление: Прикладная математика и информатика (ПМИ)  
-- Курс: 3  
-
----
-
 <### 🔍 Актуальные проекты
 
 <!-- Закрепите 3-4 ключевых проекта -->
-<| Проект | Описание | Технологии |>
-<|--------|----------|------------|>
-<| **[Анализ рыночных тенденций](https://github.com/ссылка)** | Прогнозирование динамики рынка с помощью ML | Python, Pandas, Prophet |>
-<| **[API для ML-моделей](https://github.com/ссылка)** | Микросервис для обслуживания моделей | FastAPI, Docker, PyTorch |>
-<| **[Оптимизация SQL-запросов](https://github.com/ссылка)** | Анализ производительности баз данных | SQL, SQLite, Python |>
+<!-- | Проект | Описание | Технологии | -->
+<!-- |--------|----------|------------| -->
+<!-- | **[Анализ рыночных тенденций](https://github.com/ссылка)** | Прогнозирование динамики рынка с помощью ML | Python, Pandas, Prophet | -->
+<!-- | **[API для ML-моделей](https://github.com/ссылка)** | Микросервис для обслуживания моделей | FastAPI, Docker, PyTorch | -->
+<!-- | **[Оптимизация SQL-запросов](https://github.com/ссылка)** | Анализ производительности баз данных | SQL, SQLite, Python | -->
 
---->
+---
 
 ### 📈 GitHub статистика
 
@@ -66,18 +59,6 @@
 <div align="center">
   <a href="https://github.com/Fedor-SPBPU">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fedqqq&show_icons=true&theme=radical&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedqqqU&layout=compact&theme=radical&langs_count=6" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedqqq&layout=compact&theme=radical&langs_count=6" />
   </a>
 </div>
-
-<!-- 3D-календарь контрибьюций -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Fedor-SPBPU/fedqqq/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</div>
-
----
-
-<### 🎓 Образовательные сертификаты>
-<!-- Плашки сертификатов -->
-<![Coursera](https://img.shields.io/badge/-Advanced%20ML%20Specialization-0056D2?logo=coursera)>
-<![Stepik](https://img.shields.io/badge/-Data%20Science-4CA144?logo=stepik)>
