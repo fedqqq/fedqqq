@@ -55,10 +55,23 @@
 
 ### 📈 GitHub статистика
 
-<!-- Адаптивные карточки статистики -->
-<div align="center">
-  <a href="https://github.com/Fedor-SPBPU">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fedqqq&show_icons=true&theme=radical&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedqqq&layout=compact&theme=radical&langs_count=6" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Активность</h3> 
+      <div align="center">
+        <a href="https://github.com/fedqqq">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fedqqq&show_icons=true&theme=radical&count_private=true" />
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Языки программирования</h3>
+      <div align="center">
+        <a href="https://github.com/fedqqq">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedqqq&layout=compact&theme=radical&langs_count=6" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
