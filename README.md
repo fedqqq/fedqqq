@@ -58,14 +58,16 @@
     <td width="50%">
       <div align="center">
         <a href="https://github.com/fedqqq">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fedqqq&show_icons=true&theme=radical&count_private=true" />
+          <!-- Добавлено &random=12345 -->
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fedqqq&show_icons=true&theme=radical&count_private=true&random=12345" />
         </a>
       </div>
     </td>
     <td width="50%">
       <div align="center">
         <a href="https://github.com/fedqqq">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedqqq&layout=compact&theme=radical&langs_count=6" />
+          <!-- Добавлено &random=12345 -->
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedqqq&layout=compact&theme=radical&langs_count=6&random=12345" />
         </a>
       </div>
     </td>
