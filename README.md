@@ -1,74 +1,30 @@
-<!-- Анимированный баннер (рекомендую создать в Canva) -->
-![header](https://raw.githubusercontent.com/fedqqq/fedqqq/main/assets/banner.gif)
+# Fedor Fil
 
-<!-- Приветствие -->
-<h1 align="center">👋 Привет! Я Фёдор</h1>
-<h3 align="center">Студент ПМИ в СПбПУ</h3>
-<h4 align="center">Data Scientist | ML Engineer | Data Analyst</h4>
+Machine Learning · Recommender Systems · Data Analytics
 
-<!-- Контакты -->
-<p align="center">
-  <a href="https://t.me/Quagggy">
-    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:fedq1105@mail.ru">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+I work on sequential recommendation, reproducible ML experiments, and statistical analysis using Python and PyTorch. My background is in applied mathematics and computer science.
 
----
+## Selected projects
 
-### 🛠️ Технологический стек
+### [fitpredict](https://github.com/fedqqq/fitpredict)
 
-**Языки программирования:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+A configuration-driven library for tabular ML experiments in PyTorch. Combines standard `torch.nn.Module` models with YAML or JSON configurations for data loading, training, evaluation, checkpointing, and prediction. Includes typed configuration validation, tests, documentation, and runnable examples.
 
-**Базы данных:**  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+### [GAANS](https://github.com/fedqqq/GAANS) — research in progress
 
-**Data Science & ML:**  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-0C7DB1?logo=seaborn&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+An experimental framework for studying negative sampling in sequential recommendation. Implements SASRec in PyTorch, baseline samplers, full-catalog ranking evaluation, resumable training, and MLflow tracking. Includes deterministic data preparation and validation for MovieLens and Amazon Beauty. The proposed GAANS sampler is still under development; main research experiments have not yet been run.
 
-**Backend & DevOps:**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+### [Utility payment A/B test analysis](https://github.com/fedqqq/zhkh-ab-analysis)
 
-<!-- --- -->
+An educational product analytics project evaluating a redesigned payment form. Covers data validation, funnel analysis, sample ratio checks, and conversion estimates. Accounts for repeated payment attempts through bootstrap and permutation tests at the user level, with confidence intervals and a documented rollout recommendation.
 
-<!-- ### 🔍 Актуальные проекты -->
+## Technical skills
 
-<!-- Закрепите 3-4 ключевых проекта -->
-<!-- | Проект | Описание | Технологии | -->
-<!-- |--------|----------|------------| -->
-<!-- | **[Анализ рыночных тенденций](https://github.com/ссылка)** | Прогнозирование динамики рынка с помощью ML | Python, Pandas, Prophet | -->
-<!-- | **[API для ML-моделей](https://github.com/ссылка)** | Микросервис для обслуживания моделей | FastAPI, Docker, PyTorch | -->
-<!-- | **[Оптимизация SQL-запросов](https://github.com/ссылка)** | Анализ производительности баз данных | SQL, SQLite, Python | -->
+- **Languages:** Python, SQL
+- **ML:** PyTorch, scikit-learn; sequential recommendation, negative sampling, model training and evaluation
+- **Analytics:** pandas, NumPy, SciPy, statsmodels; exploratory analysis, A/B testing, statistical inference
+- **Experiment tooling:** MLflow, configuration validation, checkpointing, automated tests
 
-<!-- --- -->
+## Contact
 
-<table>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <a href="https://github.com/fedqqq">
-          <!-- Добавлено &random=12345 -->
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fedqqq&show_icons=true&theme=radical&count_private=true&random=12345" />
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <a href="https://github.com/fedqqq">
-          <!-- Добавлено &random=12345 -->
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedqqq&layout=compact&theme=radical&langs_count=6&random=12345" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+[Telegram](https://t.me/Quagggy) · [GitHub](https://github.com/fedqqq)
